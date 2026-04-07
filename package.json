@@ -1,0 +1,10 @@
+{
+  "name": "codex-playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sandbox repo for testing Codex workflows",
+  "scripts": {
+    "start": "node scripts/hello.js",
+    "test": "node tests/smoke.test.js"
+  }
+}
